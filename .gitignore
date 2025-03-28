@@ -404,3 +404,4 @@ FodyWeavers.xsd
 bin/*
 bin-int/*
 *.tga
+build/*
